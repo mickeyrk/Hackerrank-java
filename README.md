@@ -1,1 +1,1 @@
-# Hackerrank-java
+# Hackerrank
